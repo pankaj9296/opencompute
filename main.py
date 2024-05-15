@@ -12,7 +12,7 @@ import time
 
 # Load the API key from environment variable
 load_dotenv()
-api_key = os.getenv("WANDB_API_KEY")
+api_key = "5a10e7bc5a240d53c3922caec56d9eb2f1e75ace"
 
 # Constants for W&B
 PUBLIC_WANDB_NAME = "opencompute"
